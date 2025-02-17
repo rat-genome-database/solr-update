@@ -1,1 +1,2 @@
-# solr-update
+# OntomateAIPipeline
+Ontomate AI Pipeline
