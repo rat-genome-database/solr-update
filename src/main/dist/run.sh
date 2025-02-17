@@ -2,7 +2,7 @@
 
 . /etc/profile
 
-APPNAME=solr-updater
+APPNAME=SolrUpdater-1.0
 APPDIR=/home/rgddata/pipelines/$APPNAME
 
 cd $APPDIR
