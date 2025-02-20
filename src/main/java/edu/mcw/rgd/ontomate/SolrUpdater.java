@@ -10,6 +10,10 @@ public class SolrUpdater extends Thread{
 
         SolrIndexer si = new SolrIndexer();
         si.batchIndexer(2025, "OntoMate");
+        si.batchIndexer(2024, "OntoMate");
+
+        //si.recordIndexer("38309493","OntoMate");
+
     }
 
 }
